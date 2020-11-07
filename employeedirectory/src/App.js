@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import './App.css';
 import Axios from 'axios';
+import Table from './components/Table/Table'
 
 
 
@@ -58,20 +59,16 @@ function App() {
           <th><h2>Phone</h2></th>
           <th><h2>DOB</h2></th>
         </tr>
-        <tr>
+        
           {empsToDisplay.map((emp) => {
             return (
               <>
-                <td><img src={emp.picture.large}></img></td>
-                <td>{emp.name.first} {emp.name.last}</td>
-                <td>{emp.email}</td>
-                <td>{emp.phone}</td>
-                <td>{emp.dob.date}</td>
+              <Table></Table>
               </>
             )
           })
         }
-        </tr>
+        
       </table>
     </div>
   )
