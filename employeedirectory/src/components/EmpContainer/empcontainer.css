@@ -1,0 +1,38 @@
+.input {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: fantasy;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.textArea {
+    margin-bottom: 25px;
+}
+
+.tableHeader {
+    font-family: fantasy;
+    font-weight: 600;
+    font-size: 35px;
+    color: white;
+    margin-top: 15px;
+    display:inline-block;
+}
+
+.empName {
+    font-family: fantasy;
+    font-weight: 600;
+    color: white;
+    margin-top: 15px;
+}
+
+.empAttr {
+    font-family: fantasy;
+    font-weight: 600;
+    color: white;
+    margin-top: 15px;
+}
+
+.switch {
+    display: inline-block;
+}

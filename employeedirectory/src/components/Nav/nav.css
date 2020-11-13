@@ -1,0 +1,13 @@
+.navbar-brand {
+    margin: auto;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 600;
+}
+
+nav {
+    color: white;
+    background-color: darkblue;
+    border-bottom: 5px groove darkblue;
+    height: 100px;
+}

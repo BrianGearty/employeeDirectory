@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: darkcyan;
 }
 
 .App-logo {
@@ -24,6 +25,11 @@
   color: white;
 }
 
+.table {
+  border: "2px solid black";
+  border-radius: "10px"; 
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +42,5 @@
     transform: rotate(360deg);
   }
 }
+
+
