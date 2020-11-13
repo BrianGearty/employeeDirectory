@@ -35,10 +35,10 @@ https://github.com/github.com/briangearty
 # Screenshots
 
 ![Screen Shot 2020-11-12 at 11 57 38 PM](https://user-images.githubusercontent.com/64609758/99030588-6c99fe00-2543-11eb-84ef-ead3a0110ae3.png)
-
+This is what the App looks like
 ![Screen Shot 2020-11-12 at 11 58 00 PM](https://user-images.githubusercontent.com/64609758/99030596-70c61b80-2543-11eb-9479-c6cbd0f3dd6c.png)
-
+When you start to type letters the names with those letters will show up.
 ![Screen Shot 2020-11-12 at 11 58 19 PM](https://user-images.githubusercontent.com/64609758/99030598-73c10c00-2543-11eb-827c-af5e05113364.png)
-
+When you click the Arrow next to name it faces down and puts the names in alphabetical order.
 ![Screen Shot 2020-11-12 at 11 58 32 PM](https://user-images.githubusercontent.com/64609758/99030604-76236600-2543-11eb-8040-2667dce8bd80.png)
-
+When you click the Arrow next to name again it faces up and does reverse alphabetical order.
