@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import EmpContainer from "./components/EmpContainer/EmpContainer";
-import Navbar from "./components/Nav/Nav";
+import Navbar from "./components/Nav";
 
 
 
