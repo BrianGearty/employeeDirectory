@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import EmpContainer from "./components/EmpContainer/EmpContainer";
+import EmpContainer from "./components/EmpContainer/index";
 import Navbar from "./components/Nav";
 
 
