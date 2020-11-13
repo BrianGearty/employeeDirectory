@@ -33,3 +33,12 @@ Geartybrian@gmail.com
 https://github.com/github.com/briangearty 
 
 # Screenshots
+
+![Screen Shot 2020-11-12 at 11 57 38 PM](https://user-images.githubusercontent.com/64609758/99095519-38eec080-25a3-11eb-838d-b80b1c08c8b0.png)
+This is the app.
+![Screen Shot 2020-11-12 at 11 58 00 PM](https://user-images.githubusercontent.com/64609758/99095553-44da8280-25a3-11eb-8c71-e6bc1c3ce38c.png)
+When you start to type a name the people with those letters in their name will show up.
+![Screen Shot 2020-11-12 at 11 58 19 PM](https://user-images.githubusercontent.com/64609758/99095588-53289e80-25a3-11eb-806f-cc537792bbf6.png)
+When clicking the arrow next to the "Name" header you will get the employee directory in alphabetical order.
+![Screen Shot 2020-11-12 at 11 58 32 PM](https://user-images.githubusercontent.com/64609758/99095640-650a4180-25a3-11eb-9035-2cd4d5c6e494.png)
+When you click the arrow again it will give you reverse alphabetical order
