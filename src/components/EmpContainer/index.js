@@ -67,8 +67,6 @@ var arrowToDisplay = 'https://i.pinimg.com/originals/cc/99/3a/cc993a2f30c64a3a9e
                 if (a.name.first < b.name.first) { return 1; }
                 return 0;
             })
-            
-
             arrowToDisplay = 'https://i.pinimg.com/originals/cc/99/3a/cc993a2f30c64a3a9ea1ae1a5a434704.png'
         }
     } 
@@ -103,6 +101,5 @@ return (
             }
         </table>
     </div>
-)
-}
+)}
 export default EmpContainer;
