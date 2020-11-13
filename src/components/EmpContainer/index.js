@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Axios from 'axios';
 import "bootstrap/dist/css/bootstrap.min.css";
 import './empcontainer.css'
-
+import { Helmet } from "react-helmet";
 // HOOK
 function EmpContainer(){
 const [state, setState] = useState({
@@ -73,6 +73,9 @@ var arrowToDisplay = 'https://i.pinimg.com/originals/cc/99/3a/cc993a2f30c64a3a9e
 
 return (
     <div className="App">
+        <Helmet>
+        <meta name="viewport" content="width=device-width, initial-scale=1" charSet="utf-8" />
+        </Helmet>
         <h5 className="input">Employee Name</h5>
         <input className="textArea" onChange={handleTyping}></input>
         <table className='table' style={{ width: "80%", margin: "auto" }}>
